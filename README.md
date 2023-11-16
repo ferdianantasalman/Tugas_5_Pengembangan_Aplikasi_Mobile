@@ -1,16 +1,25 @@
-# pertemuan_5
+# Tugas Pertemuan 5
 
-A new Flutter project.
+Tampilan Home
 
-## Getting Started
+![Home](https://github.com/ferdianantasalman/Tugas_5_Pengembangan_Aplikasi_Mobile/assets/89559526/e6e182dd-a87d-47a8-b969-91af7d2482d9)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Tampilan Create
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Create](https://github.com/ferdianantasalman/Tugas_5_Pengembangan_Aplikasi_Mobile/assets/89559526/d7b5100c-8d33-4b68-8174-ae223b11fa3d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Tampilan Detail
+
+![Detail](https://github.com/ferdianantasalman/Tugas_5_Pengembangan_Aplikasi_Mobile/assets/89559526/5304245b-d458-4615-9aac-b43161f68a03)
+
+
+Tampilan Edit
+
+![Edit](https://github.com/ferdianantasalman/Tugas_5_Pengembangan_Aplikasi_Mobile/assets/89559526/034be61e-8869-4df7-aed6-d8049740bdef)
+
+
+Tampilan Delete
+
+![Delete](https://github.com/ferdianantasalman/Tugas_5_Pengembangan_Aplikasi_Mobile/assets/89559526/91a02583-f731-4055-8473-3d877567329f)
